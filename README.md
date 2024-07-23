@@ -17,8 +17,7 @@ I am a passionate guy with developing efficient and scalable software solutions,
 ## 🔥 GitHub Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeworking123&theme=radical)
 
-## GitHub Graph
+## GitHub Activity Graph
 <div style="display: flex; justify-content: space-between;">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=zeworking123&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=zeworking123&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
