@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ZEWorking123/ZEWorking123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +30,11 @@ I'm a [Your Profession] with experience in [Your Skills/Technologies]. I love to
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeworking123&show_icons=true&theme=radical)
+
+## 🛠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeworking123&layout=compact&theme=radical)
+
+## 📊 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeworking123&theme=react-dark)
+
