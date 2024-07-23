@@ -38,3 +38,7 @@ I'm a [Your Profession] with experience in [Your Skills/Technologies]. I love to
 ## 🔥 GitHub Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeworking123&theme=radical)
 
+## 🏆 GitHub Profile Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zeworking123&theme=radical)
+
+
