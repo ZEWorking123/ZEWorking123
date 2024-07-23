@@ -35,6 +35,6 @@ I'm a [Your Profession] with experience in [Your Skills/Technologies]. I love to
 ## 🛠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeworking123&layout=compact&theme=radical)
 
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeworking123&theme=react-dark)
+## 🔥 GitHub Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeworking123&theme=radical)
 
