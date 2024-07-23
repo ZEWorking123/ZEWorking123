@@ -1,4 +1,3 @@
-<!--
 ## Hi there, I'm Er Zhao 👋
 
 ## About Me
@@ -20,3 +19,11 @@ I am a passionate guy with developing efficient and scalable software solutions,
 
 ## 🏆 GitHub Profile Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zeworking123&theme=radical)
+
+
+### GitHub Analytics
+<div style="display: flex; justify-content: space-between;">
+  <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=zeworking123&theme=react" />
+  <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeworking123&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=zeworking123&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
