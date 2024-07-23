@@ -1,7 +1,7 @@
 # Hi there, I'm Er Zhao 👋
 
 ## About Me
-I am a passionate guy with developing efficient and scalable software solutions, and enjoy working on open-source projects. My expertise lies in various programming languages and frameworks, and I am always eager to learn new technologies and take on challenging projects.
+I am a passionate guy with developing efficient and scalable software solutions, and enjoy learning new technologies and taking on challenging projects.
 
 ## 🔧 Technologies & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white), ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
