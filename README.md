@@ -1,4 +1,4 @@
-# Hi there, I'm Er Zhao 👋
+## Hi there, I'm Er Zhao 👋
 
 ## About Me
 I am a passionate guy with developing efficient and scalable software solutions, and enjoy learning new technologies and taking on challenging projects.
